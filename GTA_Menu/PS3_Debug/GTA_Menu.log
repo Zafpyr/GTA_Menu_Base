@@ -1,0 +1,5 @@
+﻿  prx.cpp
+  ps3ppuld 360.1.4229.0 (rel,ps3,360.1,ppu,src @99232 #400917 ) "C:\usr\local\cell\host-win32\sn\bin\ps3ppuld.exe"
+Command line : warning : L0025: lots of sections are not found in linker script (e.g. ".text._Z6invokeIPviifiET_jT0_T1_T2_T3_")
+  GTA_Menu.vcxproj -> C:\Users\John\Documents\Visual Studio 2015\Projects\GTA_Menu\PS3_Debug\GTA.sprx
+  Cannot find the expected PRX Stub Library file: cellPrx_GTA_Menu_stub.a
